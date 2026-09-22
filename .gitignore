@@ -8,3 +8,19 @@ posters/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Preview pages for client choices
+_options/
+
+# Build tooling and local config (kept on disk, not published)
+tools/
+*.py
+__pycache__/
+.claude/
+.env
+.env.*
+*.log
+
+# Unused or source-only images
+assets/img/hero-1600.webp
+assets/logo/source/

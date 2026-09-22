@@ -1,4 +1,4 @@
-# Gully Cricket Trust (R) — Round Crest logo kit
+# Gully Cricket Trust — Round Crest logo kit
 
 | File | Use |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Gully Cricket Trust (R) — Gold Shield logo kit
+# Gully Cricket Trust — Gold Shield logo kit
 
 | File | Use |
 | --- | --- |
